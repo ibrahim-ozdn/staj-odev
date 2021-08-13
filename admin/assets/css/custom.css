@@ -1,0 +1,115 @@
+.main-header{
+    box-shadow: none !important;
+    border: none !important;
+}
+.logo-header{
+    background: #fff;
+}
+.btn-toggle{
+    color: #6b6f82 !important;
+}
+.navbar-header{
+    background: linear-gradient(45deg,#303f9f,#1976d2)!important;
+}
+.bg-primary-gradient{
+    background: linear-gradient(45deg,#303f9f,#1976d2)!important;
+    box-shadow: none !important;
+    border: none !important;
+}
+.row-card-no-pd{
+    border-radius: 2px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+.card-stats{
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+.sidebar{
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+.footer{
+    border-top: 1px solid #eaeaea;
+}
+
+.custom-file-upload-profile input[type="file"] {
+    display: none;
+}
+  
+.custom-file-upload-profile{
+    font-family: calibri;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    background-color:#303f9f;
+    color: #fff !important;
+    cursor: pointer;
+    padding: 10px;
+}
+
+.input-border-bottom{
+    border-bottom: 1px solid #4A00E0;
+}
+
+.form-group{
+    margin-top: 10px;
+    padding: 0px;
+}
+.btn-indigo{
+    background: #303f9f;
+    color: #fff;    
+}
+
+.wt-10{
+    width: 10px;
+}
+.wt-80{
+    width: 80px;
+    text-align: center;
+}
+.wt-100{
+    width: 100px;
+    text-align: center;
+}
+.wt-120{
+    width: 120px;
+    text-align: center;
+}
+td:hover{
+    cursor: move;
+}
+
+.sidebar .nav>.nav-item a p, .sidebar[data-background-color=white] .nav>.nav-item a p{
+    color: #6e768e;
+    display: block;
+    padding: 1px 15px;
+    position: relative;
+    transition: all .4s;
+    font-size: .90rem;
+}
+
+.sidebar .nav>.nav-item a i, .sidebar[data-background-color=white] .nav>.nav-item a i{
+    width: 14px;
+    height: 14px;
+    margin-left: 3px;
+    margin-right: 10px;
+}
+
+.sidebar.sidebar-style-2 .nav .nav-item a:focus, .sidebar.sidebar-style-2 .nav .nav-item a:hover, .sidebar.sidebar-style-2 .nav .nav-item a[data-toggle=collapse][aria-expanded=true]{
+    background: transparent !important;
+}
+
+.feather {
+    width: 18px;
+    height: 18px;
+    stroke: currentColor;
+    stroke-width: 2;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    fill: none;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+.video_url_container{
+    display: none;
+}
